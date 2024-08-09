@@ -1324,6 +1324,7 @@ body {
     .footer-display-flex {
         margin-top: 7px;
         font-size: 1.2vmax;
+        margin-left: 10px;
     }
 
     .footer-display {
